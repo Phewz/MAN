@@ -1,3 +1,42 @@
 
 Kundenzentriert (Outside-in)
 
+
+Merkmale zu SAP aus Kundensicht
+
+Komplexität: Anwender beschweren sich über eine zu hohe Kompelxität der Software wobei oft
+             nur 10 bis 50 Prozent der Software optimal eingesetzt werden könnte, laut Anwender.
+
+Kosten:     Sotwarelösungen von SAP eigen sich häufig nur für Gossunterehmen, da zu teuer zum Beispiel
+            für Mittelständler. 
+
+Flexibilität: Vorteil von SAP ist das Datenmodell sowie das betriebswirtschaftliche Framework bzw. die ganzen Prozesse
+              die im System hinterlegt sind, also die fachliche Logik. Diese ist relativ ausgereift, wer SAP 
+              im Unternehmen einführt, der führt auch die Prozesse im Unternehmen ein. Diese Prozesse sind aber
+              ohne Programmierung, rein durch Systemeinstellungen recht flexibel konfigurierbar und man kann 
+              diese dynamisch an die Prozesse des Unternehmens anpassen, ohne gross zu programmieren.
+              
+Implemtierung: Die Implementierung dauert im Vergleich zu anderen Systemen zu lange
+               und bedarf der Hilfe von Consultants, deren Arbeitsweise und Qualifikationen oft viele Wünsche offen lassen. 
+               Der Schulungsaufwand ist sehr hoch. Der laufende Änderungsaufwand (Releases) beschäftigt das Unternehmen in
+               äußerst starkem Maße. Die Produktivität leidet unter dem hohen Funktionsumfang (hohe "user cost").  
+
+Cloud-Computing: Heute ist keine interne, robuste IT-Infrastruktur mehr nötig durch Anwendungen von SAP. 
+                        
+               
+Vergleich zu Oracle (görsster Wettbewerber von SAP)
+
+
+Implemntierung: Laut der Studie Clash of Titans 2014 schneidet SAP hier schlechter ab als Oracle, vor allem bei 
+                bei Einführung der Software entstehen bei SAP mehr Probleme als bei Oracle.
+                
+Kosten:         Bezogen auf den Anteil des jährlichen Umsatzes (oder das Budget öffentlicher Einrichtungen) ist SAP 
+                die kostspieligere Option. Der durchschnittliche SAP-Kunde gibt vier Prozent seines Jahresumsatzes 
+                für die Gesamtbetriebskosten des ERP-Systems aus, während der durchschnittliche Oracle-Kunde 
+                nur 1,7 Prozent zahlt.
+ 
+ Cloud-Computing: Hierbei ist Orcale nur leicht vor SAP, wobei die Anwender ungefähr gleich zufrieden scheinen.
+ 
+ Flexibilität: Laut den Autoren der Studie Clash of the Titans 2014 nehmen SAP-Kunden stärker die Funktionen
+               und unternehmerischen Vorteilen wahr als Oracle-Kunden. Auf der anderen Seite amortisiert sich aus
+               Sicht von Oracle-Kunden das ERP-Projekt schneller als bei SAP-Kunden.
