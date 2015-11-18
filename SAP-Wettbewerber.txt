@@ -1,0 +1,13 @@
+Wettbewerber und potentzielle Konkurrenten:
+
+Der Markt der betriebswirschatlichen Software, Cloud-Software und Datenbaken ist ein hart umkämpfter und stetig wachsender Markt.
+Die Hauptwettbewerber der deutschen Firma SAP im Anwendungsmarkt sind unter anderem Microsoft, IBM und Oracle.
+Wo hingegen sich die Hauptwettbewerber im Bereich Analytik folgender maßen aufstellen: SAS Institute, IBM (Cognos), Tableau und Oracle (Hyperion).
+Die Angebote vieler Wettbewerber decken sich mit denen, die SAP in seinem Angebot hat. 
+Im Cloud-Makrt jedoch, steht SAP On-Demand-Anbietern gegenüber, die branchenorientiere Produkte anbieten.
+Hier setzen sich die Hauptwettbewerber wie folgt zusammen: Salesforce, Workday, NetSuite und Oricle.
+Im Markt der Datenbanken- und Technologieprodukten steht SAP mit Pracle, IBM und Microsoft Stirn an Stirn.
+
+Darüber hinaus zeichnen sich immer mehr mittelständigsche und Kleinunternehmen, als potentielle Konkurrenz aus. Da diese branchen- und sogar firmenorientierte Software und Lösungen anbieten, 
+welche nicht ganz so komplex ausfällt, jedoch einfacher zu einzuführen ist, da diese Unternehmen genauer auf Kundenwünsche eingehen können.
+Jedoch sagt SAP diesen, je nach Produkt- oder Serviceangebot bzw. geographischem Markt auch diesen den Kampf an.
