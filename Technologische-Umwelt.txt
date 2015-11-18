@@ -1,0 +1,8 @@
+Technologische Umwelt:
+
+Die Software die SAP anbietet steht auf einer Ebene mit der von Konkurrenzunternehmen wie SAP, Microsoft oder Oracle.
+Die Einführung dieser wird oft als sehr langatmig beschrieben. Im vergleich zu Oracle schneidet SAP hier schlechter ab.
+Kleinere Unternehmen bieten branchen- und firmenorientiere Software an, welche nicht ganz so komplex ist, jedoch leichter einzuführen und anzuwenden.
+SAP strebt an Technologien und Lösungen selbst zu entwickeln und unterstützte Start-Ups und Forschungsprojekte finanziell.
+
+(Leider nicht allzu viel, hoffe das reicht für die Folie. Bin offen für Ergängungen!!!!)
